@@ -1,0 +1,306 @@
+{
+  "Cotton": {
+    "cotton_plant_diseases": [
+      {
+        "disease_name": "Bacterial Blight",
+        "description": "A bacterial disease that causes dark, angular spots on leaves and water-soaked lesions.",
+        "symptoms": [
+          "Dark angular spots on leaves",
+          "Water-soaked lesions",
+          "Defoliation in severe cases"
+        ],
+        "causes": [
+          "Infection by Xanthomonas citri pv. malvacearum",
+          "High humidity and wet conditions"
+        ],
+        "treatment": [
+          "Plant resistant cotton varieties",
+          "Use bactericide sprays",
+          "Avoid overhead irrigation"
+        ]
+      },
+      {
+        "disease_name": "Curl Virus",
+        "description": "A viral disease spread by whiteflies, causing curling and distortion of leaves.",
+        "symptoms": [
+          "Leaf curling and distortion",
+          "Stunted plant growth",
+          "Yellowing of leaf veins"
+        ],
+        "causes": [
+          "Infection by Cotton leaf curl virus (CLCuV)",
+          "Transmission by whiteflies (Bemisia tabaci)"
+        ],
+        "treatment": [
+          "Control whitefly population using insecticides",
+          "Plant resistant or tolerant varieties",
+          "Remove infected plants promptly"
+        ]
+      },
+      {
+        "disease_name": "Fusarium Wilt",
+        "description": "A fungal disease that causes wilting and yellowing of cotton plants.",
+        "symptoms": [
+          "Yellowing and browning of leaves",
+          "Wilted foliage",
+          "Discoloration of vascular tissue"
+        ],
+        "causes": [
+          "Infection by Fusarium oxysporum f. sp. vasinfectum",
+          "Soilborne fungal spores"
+        ],
+        "treatment": [
+          "Use fungicide treatments",
+          "Rotate crops to reduce pathogen build-up",
+          "Plant resistant cotton varieties"
+        ]
+      },
+      {
+        "disease_name": "Healthy",
+        "description": "No signs of disease; leaves are green and healthy.",
+        "symptoms": [
+          "Green, unblemished leaves",
+          "Normal plant growth"
+        ],
+        "causes": [
+          "Proper nutrition",
+          "Favorable growing conditions"
+        ],
+        "treatment": [
+          "Maintain proper care",
+          "Monitor for early signs of disease"
+        ]
+      }
+    ]
+  },
+  "Orange": {
+    "orange_plant_diseases": [
+      {
+        "disease_name": "Haunglongbing (Citrus Greening Disease)",
+        "description": "A bacterial disease caused by Candidatus Liberibacter species, spread by psyllids, leading to mottled leaves, stunted growth, and bitter, misshapen fruit.",
+        "symptoms": [
+          "Yellowing and mottling of leaves",
+          "Asymmetrical chlorosis (blotchy mottle)",
+          "Stunted tree growth",
+          "Premature fruit drop",
+          "Bitter, misshapen fruit with uneven ripening"
+        ],
+        "causes": [
+          "Infection by Candidatus Liberibacter species",
+          "Transmission by Asian citrus psyllid (Diaphorina citri)"
+        ],
+        "treatment": [
+          "Remove and destroy infected trees to prevent spread",
+          "Apply insecticides to control psyllid populations",
+          "Plant certified disease-free trees",
+          "Maintain good nutrition and irrigation for healthy trees"
+        ],
+        "prevention": [
+          "Regular monitoring of psyllid populations",
+          "Using reflective mulches to repel psyllids",
+          "Implementing integrated pest management strategies",
+          "Quarantine and movement restrictions in affected areas"
+        ]
+      }
+    ]
+  },
+  "Rice": {
+    "rice_plant_diseases": [
+      {
+        "disease_name": "Bacterial Leaf Blight",
+        "description": "A bacterial disease caused by Xanthomonas oryzae pv. oryzae, leading to leaf wilting and yield loss.",
+        "symptoms": [
+          "Yellow to white water-soaked streaks on leaves",
+          "Streaks enlarge and turn grayish-brown",
+          "Wilting and drying of leaves in severe cases"
+        ],
+        "causes": [
+          "Infection by Xanthomonas oryzae pv. oryzae",
+          "High humidity and warm temperatures",
+          "Overuse of nitrogen fertilizers"
+        ],
+        "treatment": [
+          "Plant resistant rice varieties",
+          "Apply bactericides like copper-based sprays",
+          "Avoid excessive nitrogen fertilization"
+        ],
+        "prevention": [
+          "Use certified, disease-free seeds",
+          "Ensure proper drainage in fields",
+          "Rotate crops to break the disease cycle"
+        ]
+      }
+    ]
+  },
+  "Soybean": {"soybean_plant_diseases": [
+    {
+      "disease_name": "Bacterial Blight",
+      "description": "A bacterial disease caused by Pseudomonas syringae pv. glycinea, resulting in water-soaked lesions on leaves.",
+      "symptoms": [
+        "Water-soaked spots on leaves",
+        "Spots enlarge and turn brown with yellow margins",
+        "Leaves may tear and drop prematurely"
+      ],
+      "causes": [
+        "Infection by Pseudomonas syringae pv. glycinea",
+        "High humidity and warm temperatures",
+        "Rain splash and wind spreading the bacteria"
+      ],
+      "treatment": [
+        "Use copper-based bactericides",
+        "Plant resistant soybean varieties",
+        "Avoid working in fields when plants are wet"
+      ],
+      "prevention": [
+        "Plant disease-free seeds",
+        "Practice crop rotation to reduce pathogen build-up",
+        "Ensure proper drainage to prevent waterlogging"
+      ]
+    },
+    {
+      "disease_name": "Brown Spot",
+      "description": "A fungal disease caused by Septoria glycines, leading to small, irregular brown spots on leaves.",
+      "symptoms": [
+        "Small, irregular brown spots on lower leaves",
+        "Leaves may turn yellow and drop prematurely",
+        "Reduced photosynthesis and yield loss"
+      ],
+      "causes": [
+        "Infection by Septoria glycines",
+        "Prolonged leaf wetness and high humidity",
+        "Overcrowded planting and poor air circulation"
+      ],
+      "treatment": [
+        "Apply fungicides like Chlorothalonil or Mancozeb",
+        "Improve airflow by proper plant spacing",
+        "Remove infected plant debris"
+      ],
+      "prevention": [
+        "Plant resistant varieties",
+        "Rotate crops to break the disease cycle",
+        "Use disease-free seeds"
+      ]
+    },
+    {
+      "disease_name": "Powdery Mildew",
+      "description": "A fungal disease caused by Microsphaera diffusa, forming white, powdery patches on leaf surfaces.",
+      "symptoms": [
+        "White, powdery fungal growth on upper leaf surfaces",
+        "Leaves may curl, yellow, and drop",
+        "Reduced plant vigor and yield"
+      ],
+      "causes": [
+        "Infection by Microsphaera diffusa",
+        "High humidity and moderate temperatures",
+        "Overcrowded planting"
+      ],
+      "treatment": [
+        "Apply fungicides such as Sulfur or Triazole-based products",
+        "Remove heavily infected leaves",
+        "Ensure proper air circulation"
+      ],
+      "prevention": [
+        "Plant resistant soybean varieties",
+        "Avoid overcrowding to improve airflow",
+        "Regularly monitor plants for early signs of infection"
+      ]
+    },
+    {
+      "disease_name": "Yellow Mosaic",
+      "description": "A viral disease caused by Yellow Mosaic Virus, leading to yellow patches and distorted leaves.",
+      "symptoms": [
+        "Yellow and green mosaic patterns on leaves",
+        "Leaf curling and deformation",
+        "Stunted plant growth and reduced yield"
+      ],
+      "causes": [
+        "Infection by Yellow Mosaic Virus",
+        "Transmission by whiteflies (Bemisia tabaci)"
+      ],
+      "treatment": [
+        "Control whitefly populations using insecticides",
+        "Remove and destroy infected plants",
+        "Spray neem-based bio-pesticides for whitefly control"
+      ],
+      "prevention": [
+        "Plant virus-resistant soybean varieties",
+        "Use reflective mulches to repel whiteflies",
+        "Practice good field hygiene and weed control"
+      ]
+    }
+  ] },
+  "Wheat": { "wheat_plant_diseases": [
+    {
+      "disease_name": "Septoria",
+      "description": "A fungal disease caused by Zymoseptoria tritici, leading to leaf lesions and reduced photosynthesis.",
+      "symptoms": [
+        "Small, yellowish spots on leaves",
+        "Spots enlarge into elongated lesions with gray-brown centers",
+        "Black fruiting bodies (pycnidia) visible in lesions",
+        "Leaf death in severe cases"
+      ],
+      "causes": [
+        "Infection by Zymoseptoria tritici",
+        "Wet and humid conditions",
+        "Spread by wind and rain splash"
+      ],
+      "treatment": [
+        "Apply fungicides such as Azoxystrobin or Propiconazole",
+        "Use resistant wheat varieties",
+        "Remove infected crop residues"
+      ],
+      "prevention": [
+        "Rotate crops to break the disease cycle",
+        "Ensure proper spacing for good air circulation",
+        "Avoid excessive nitrogen fertilization"
+      ]
+    },
+    {
+      "disease_name": "Stripe Rust",
+      "description": "A fungal disease caused by Puccinia striiformis f. sp. tritici, forming yellow-orange pustules on leaves.",
+      "symptoms": [
+        "Yellow to orange pustules forming linear stripes on leaves",
+        "Premature leaf drying",
+        "Reduced plant vigor and grain filling"
+      ],
+      "causes": [
+        "Infection by Puccinia striiformis f. sp. tritici",
+        "Cool and moist weather conditions",
+        "Spores spread by wind over long distances"
+      ],
+      "treatment": [
+        "Apply fungicides such as Tebuconazole or Triazole-based products",
+        "Plant resistant wheat varieties",
+        "Remove volunteer wheat plants to reduce spore sources"
+      ],
+      "prevention": [
+        "Monitor crops regularly for early signs of infection",
+        "Plant certified disease-free seeds",
+        "Rotate crops to minimize pathogen build-up"
+      ]
+    },
+    {
+      "disease_name": "Healthy",
+      "description": "Wheat leaves with no visible signs of disease, characterized by green, unblemished foliage.",
+      "symptoms": [
+        "Uniform green leaves",
+        "No spots, lesions, or discoloration",
+        "Normal growth and development"
+      ],
+      "causes": [
+        "Proper agronomic practices",
+        "Balanced soil nutrients",
+        "Favorable growing conditions"
+      ],
+      "treatment": [
+        "Continue monitoring for early signs of disease",
+        "Maintain good field management"
+      ],
+      "prevention": [
+        "Regular monitoring of fields",
+        "Ensure adequate fertilization and irrigation",
+        "Plant disease-resistant varieties"
+      ]
+    }
+  ] }
+}
